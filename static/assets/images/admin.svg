@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_371" data-name="Group 371" transform="translate(-17 -242)">
+    <rect id="Rectangle_584" data-name="Rectangle 584" class="cls-1" width="20" height="20" transform="translate(17 242)"/>
+    <g id="leader" transform="translate(18.906 244)">
+      <path id="Path_324" data-name="Path 324" class="cls-2" d="M69.936,3.013a3.165,3.165,0,0,1-6.322,0,3.165,3.165,0,0,1,6.322,0Zm0,0" transform="translate(-61.256)"/>
+      <path id="Path_325" data-name="Path 325" class="cls-2" d="M5.525,235.186H5.514a5.47,5.47,0,0,0-3.838,1.532,5.326,5.326,0,0,0-1.582,3.635l9.166-.017V237.3l-.011-.7a5.487,5.487,0,0,0-3.724-1.417Zm0,0" transform="translate(0 -227.197)"/>
+      <path id="Path_326" data-name="Path 326" class="cls-2" d="M335.152,273.289H333.17v1.5a.231.231,0,0,1-.073.169.254.254,0,0,1-.177.069H331.7a.211.211,0,0,1,.025.105v.527h3.414l-.706-1a.228.228,0,0,1,0-.258Zm0,0" transform="translate(-319.784 -264.005)"/>
+      <path id="Path_327" data-name="Path 327" class="cls-2" d="M274.422,238.387h-3.129v6.719a.25.25,0,0,0,.5,0v-4.273h2.63Zm0,0" transform="translate(-261.535 -230.289)"/>
+    </g>
+  </g>
+</svg>

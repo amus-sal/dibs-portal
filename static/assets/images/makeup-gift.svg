@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #2a3134;
+      }
+    </style>
+  </defs>
+  <g id="Group_368" data-name="Group 368" transform="translate(-17 -467)">
+    <rect id="Rectangle_589" data-name="Rectangle 589" class="cls-1" width="20" height="20" transform="translate(17 467)"/>
+    <g id="chat" transform="translate(19 468.5)">
+      <path id="Path_321" data-name="Path 321" class="cls-2" d="M7.5,1.5C3.359,1.5,0,4.511,0,8.226a6.211,6.211,0,0,0,1.241,3.7c-.1,1.227-.4,2.956-1.241,3.8a13.506,13.506,0,0,0,4.314-1.413l.006,0c.715-.466,1.431-.946,1.579-1.067a.259.259,0,0,1,.344-.072.263.263,0,0,1,.126.219c0,.161,0,.2-1.445,1.144a8.256,8.256,0,0,0,2.577.411c4.143,0,7.5-3.011,7.5-6.726S11.645,1.5,7.5,1.5Z"/>
+      <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-3" cx="0.776" cy="0.776" r="0.776" transform="translate(3.104 7.45)"/>
+      <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-3" cx="0.776" cy="0.776" r="0.776" transform="translate(6.726 7.45)"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-3" cx="0.776" cy="0.776" r="0.776" transform="translate(10.348 7.45)"/>
+    </g>
+  </g>
+</svg>
